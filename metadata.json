@@ -1,0 +1,5 @@
+{
+  "name": "GradCheck - Lọc Danh Sách Tốt Nghiệp",
+  "description": "Ứng dụng hỗ trợ các CLB/Đội/Nhóm lọc danh sách thành viên đã tốt nghiệp từ file tổng của nhà trường, tích hợp AI để phân tích và viết lời chúc.",
+  "requestFramePermissions": []
+}
